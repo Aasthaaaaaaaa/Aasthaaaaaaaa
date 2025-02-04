@@ -18,8 +18,6 @@ Hey, I’m Aastha, a third-year B.Tech student in Electronics and Communication 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aasthaaaaaaaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aasthaaaaaaaa&icon=0&color=5)](https://visitcount.itsvg.in)
